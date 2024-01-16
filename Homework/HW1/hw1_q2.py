@@ -11,4 +11,4 @@ def shift(lst, k, direction = "left"): # k < N
         # for-loop
         for iteration in range(k):
             # adjust variable
-            lst.insert(0, lst.pop()) 
+            lst.insert(0, lst.pop())
